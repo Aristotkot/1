@@ -9,7 +9,7 @@ from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 
-TOKEN = '7560088145:AAH_XwTDh9nX5NAGGHRvAvvz1z_tC3GTLjQ'
+TOKEN = '5749426974:AAHEZsqDvmhB2fOCa5ZAV7lKSXJouOyFXNg'
 
 
 dp = Dispatcher()
@@ -42,3 +42,4 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
     asyncio.run(main())
+
